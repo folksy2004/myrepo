@@ -1,1 +1,1 @@
-My first repo after the long break, another learning curve. But a quick reminder that git generallly is a VCS (version control system) that allows you to monitor and track changes to configuration files. Note that installing git is worthless without a github
+My first repo after the long break, another learning curve. But a quick reminder that git generallly is a VCS (version control system) that allows you to monitor and track changes to configuration files. Note that installing git is worthless without a github. I just added a word.
